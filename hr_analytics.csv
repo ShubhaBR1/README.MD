@@ -1,0 +1,11 @@
+EmpID,Department,SatisfactionScore,WorkLifeBalance,PromotionLast5Y,OverTime,Age,Attrition
+E001,Sales,5,3,1,2,34,0
+E002,Engineering,8,4,0,3,28,0
+E003,HR,3,2,1,1,40,1
+E004,Engineering,6,3,0,2,30,0
+E005,Sales,2,1,1,1,45,1
+E006,Finance,7,4,0,3,29,0
+E007,Engineering,4,2,1,2,26,1
+E008,Sales,9,5,0,4,33,0
+E009,HR,6,3,0,2,31,0
+E010,Finance,5,3,1,2,27,1

@@ -1,0 +1,11 @@
+OrderID,Product,Category,ReturnReason,OrderDate,Returned
+O1001,Smartphone,Electronics,Damaged,2025-07-10,1
+O1002,T-shirt,Apparel,Size Issue,2025-07-12,0
+O1003,Running Shoes,Footwear,Not as Described,2025-07-13,1
+O1004,Earbuds,Electronics,Damaged,2025-07-14,1
+O1005,Dress,Apparel,Size Issue,2025-07-15,0
+O1006,Jacket,Apparel,Changed Mind,2025-07-16,0
+O1007,Sneakers,Footwear,Size Issue,2025-07-17,1
+O1008,Watch,Accessories,Damaged,2025-07-18,0
+O1009,Backpack,Accessories,Not as Described,2025-07-19,1
+O1010,Phone Case,Electronics,Changed Mind,2025-07-20,0
